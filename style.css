@@ -1,0 +1,10 @@
+fieldset div{
+    display: flex;
+    align-items:flex-start;
+}
+
+fieldset textarea,
+fieldset input { 
+    margin: 5px;
+    flex:1;
+}
